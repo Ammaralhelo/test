@@ -29,7 +29,7 @@ body {
   background: radial-gradient(circle at top left, #111322, #050608 45%, #020308);
   color: var(--text-main);
   line-height: 1.6;
-  background-image: url("images/background.jpg"); /* ضع مسار الصورة */ 
+  background-image: url("images/background.png"); /* ضع مسار الصورة */ 
   background-size: cover; /* تجعل الصورة تغطي الشاشة بالكامل */ 
   background-repeat: no-repeat; /* تمنع تكرار الصورة */ 
   background-attachment: fixed; /* تجعل الخلفية ثابتة أثناء التمرير */ 
@@ -888,5 +888,6 @@ img {
 .card-link:hover {
   text-decoration: underline;
 }
+
 
 
